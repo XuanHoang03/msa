@@ -6,4 +6,17 @@
     </style>
 
     <style name="Theme.MyApplication" parent="Base.Theme.MyApplication" />
+
+    <style name="roundedImageRounded" >
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    
+<!--    <style name="Floating" parent="Widget.Design.FloatingActionButton">-->
+<!--        <item name="android:foreground">@d</item>-->
+<!--    </style>-->
+    <style name="roundedImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10sp</item>
+    </style>
 </resources>
